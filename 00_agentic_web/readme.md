@@ -1,5 +1,13 @@
 ## OpenAI's Latest Moves Signal a Paradigm Shift Towards a New, Agent-Driven Web
 
+<img src="growth.jpg" alt="drawing" width="400"/>
+
+ChatGPT has reached 800 million users in just two years, a milestone that took the internet 13 years to reach. 
+The data, highlighted by the Financial Times and confirmed by Sam Altman, marks the fastest technology adoption curve in history. 
+Source: Financial Times
+
+---
+
 AI is humanity’s *next great transformation*—the fourth big technological era after steam, electricity, and digital computing. AI will massively **augment** human capability, **re-wire industries**, and **disrupt** jobs and geopolitics—so leaders must pair rapid adoption with strong governance, cybersecurity, and workforce upskilling.
 
 **Big idea:** We’re entering the “age of AI,” characterized by global *augmentation, collaboration, and disruption*—AI as a force-multiplier for people and organizations rather than a simple automation tool.
@@ -33,7 +41,7 @@ AI's influence permeates everyday life—powering smartphone features, recommend
 
 ## Key ChatGPT / OpenAI Stats (Latest)
 
-![](openai_chatgpt_user_growth.png)
+<img src="openai_chatgpt_user_growth.png" alt="drawing" width="600"/>
 
 * **Weekly active ChatGPT users:** ~**800 million**
 * **Messages handled:** **~2.5B per day** (≈29k/sec) as of July 2025.
@@ -45,12 +53,18 @@ AI's influence permeates everyday life—powering smartphone features, recommend
 * **Enterprise footprint:** Over **1M+ paying business users** reported in 2024; continued enterprise focus and new partnerships through 2025.
 * **Infrastructure deals:** OpenAI’s compute partnerships with Nvidia, AMD, Oracle (and others) [**“could easily top $1T”**](https://finance.yahoo.com/news/openai-now-done-1-trillion-225429595.html).
 
+## Trillion-Dollar AI Investment Game
+
+<img src="openais-trillion-dollar-web.webp" alt="drawing" width="400"/>
+
+<img src="openais-trillion-dollar-web2.webp" alt="drawing" width="400"/>
+
 ---
 ## [AI capabilities have steadily improved over the past year](https://epoch.ai/data-insights/ai-capabilities-over-past-year)
 
 Across benchmarks measuring skills in research-level math, agentic coding, visual understanding, common sense reasoning, and more, AI capabilities have grown rapidly and consistently over the last 12 months.
 
-![](ai-capabilities-over-past-year.png)
+<img src="ai-capabilities-over-past-year.png" alt="drawing" width="600"/>
 
 While these benchmarks do not capture all of the nuanced abilities needed for economically valuable tasks, the clear upward trends reflect genuine improvements in AI’s utility. This growth in capabilities shows no sign of slowing down.
 
@@ -82,23 +96,23 @@ The launch of integrated third-party apps marks a shift from earlier efforts lik
 
 Here’s a crisp summary of the Forbes piece (Oct 10, 2025):
 
-# Big idea
+### Big idea
 
 OpenAI wants ChatGPT to act like a **browser/OS hybrid**—a single conversational place where **apps, agents, and content live together** in one thread.
 
-# What’s launching
+### What’s launching
 
 * **Apps SDK:** Developers can embed **interactive apps inside ChatGPT**. Launch partners include **Canva, Figma, Spotify, Coursera, Zillow**—so you can design, learn, listen, or browse listings without leaving the chat.
 * **AgentKit:** A **drag-and-drop workflow builder** (plus Python) to create goal-oriented agents that call APIs, tie into enterprise systems, ship embeddable chat components, and run **evaluation** for agent accuracy. Think Zapier/Lindy-style tooling **inside** ChatGPT.
 * **Model access:** Expanded APIs for **GPT-5 Pro** (reasoning) and **Sora 2** (video); **GPT-5 Codex** is GA with **Slack integrations** and enterprise controls.
 
-# Why it matters
+### Why it matters
 
 * Positions OpenAI as both **consumer platform** and **developer ecosystem**—roles akin to iOS/Android, but **conversation replaces clicks**.
 * Could consolidate fragmented user flows (brainstorm → design → check licensing → share) **inside one chat**.
 * If it sticks, ChatGPT becomes a **new gateway to the web**, shifting discovery, commerce, and UI patterns from pages/tabs to **threads/prompts**.
 
-# Friction & risks the article flags
+### Friction & risks the article flags
 
 * **Control & gatekeeping:** OpenAI sits between users and the web; raises **privacy, interoperability, and platform power** concerns.
 * **Security & data handling:** Third-party apps/agents inside chat introduce **new privacy risks**; trust and review processes are critical.
@@ -107,15 +121,16 @@ OpenAI wants ChatGPT to act like a **browser/OS hybrid**—a single conversation
 * **Adoption unknowns:** People may not want to **live entirely** in ChatGPT; earlier “custom GPTs” fizzled.
 * **Competitive pressure:** OpenAI courts developers while **Google, Anthropic, Amazon** vie for them; **Meta/DeepSeek** push strong **open-source** options.
 
-# Notable quotes/stance
+### Notable quotes/stance
 
 * **Nick Turley (ChatGPT product):** “We **never meant to build a chatbot**; we meant to build a **super assistant**.” He doesn’t expect users to spend all day in ChatGPT—more like **start in ChatGPT, then branch to apps/sites**.
 
-# Bottom line
+### Bottom line
 
 Dev Day 2025 is OpenAI’s bid to own the **next interface of the internet**. If successful, **apps move from tabs to threads**, and “search” evolves into **conversation**—but questions about **openness, privacy, and platform control** are just beginning.
 
 ---
+
 **San Francisco, CA** - OpenAI's recent flurry of announcements, including the introduction of "Agent Kit" and an "App SDK," has ignited speculation that the artificial intelligence leader is not just building new tools, but laying the groundwork for a fundamentally new era of the internet. This vision points towards a "post-app" web where intelligent agents, rather than traditional websites and applications, become the primary way users interact with the digital world.
 
 The core of this shift lies in two key releases unveiled at OpenAI's recent DevDay conference:
