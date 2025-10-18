@@ -1,4 +1,4 @@
-# Learn Agentic AI: From Low-Code to Code
+# Learn Agentic AI:Low-Code to Code
 *Build production-grade agents with OpenAI AgentKit*
 
 This Free Course is Offered by: [Panaversity](https://panaversity.org/)
