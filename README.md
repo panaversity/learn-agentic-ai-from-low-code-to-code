@@ -201,8 +201,6 @@ After completing this course (Level 1) you will be at Learning Level 1, after th
 * **Guardrails** docs (wizard & presets). ([OpenAI GitHub][4])
 * Launch coverage & context. ([TechCrunch][5])
 
-If you want, I can tailor this to a specific audience (e.g., support orgs, schools, or consulting firms) and pre-fill the Builder templates for that track.
-
 [1]: https://openai.com/index/introducing-agentkit/ "Introducing AgentKit | OpenAI"
 [2]: https://openai.github.io/openai-agents-python/ "OpenAI Agents SDK"
 [3]: https://openai.com/agent-platform/ "API Agents | OpenAI"
